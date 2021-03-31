@@ -9,8 +9,8 @@
 
 ### 如果要体验模拟抽卡，请访问托管页面：<br>
 
-[Vercel](https://draw-hongye.vercel.app/)<br>
-[普池](https://draw-card.vercel.app/)<br>
+[红叶池](https://draw-hongye.vercel.app/)<br>
+[普通卡池](https://draw-card.vercel.app/)<br>
 [腾讯云（大概)]暂无<br>
 
 ### 目前卡池
