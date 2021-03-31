@@ -1,12 +1,12 @@
 import "../css/style.css";
 var $ = require('jquery');
-const six = ['兔兔红叶'];
+const six = ['兔兔'];
 
-const five = ['警妇红叶','和服红叶'];
+const five = ['警妇','和服'];
 
-const four = ['塞吧红叶'];
+const four = ['saber'];
 
-const three = ['红叶','珍珍红叶'];
+const three = ['红叶','珍珍'];
 
 const packageDesc = ['每月寻访礼包 (坷拉*42, 10连凭证*1)', '新人寻访组合包 (10连凭证*2)', '感谢庆典备战包 (坷拉*90, 10连凭证*1)', '月卡 (6坷拉+每天200合成玉)'];
 
@@ -28,9 +28,9 @@ const sixActivity0: string[] = [];
 
 const fiveActivity0: string[] = [];
 
-const fourActivity0: string[] = ['泳装红叶'];
+const fourActivity0: string[] = ['泳装'];
 
-const threeActivity0: string[] = ['欧派红叶'];
+const threeActivity0: string[] = ['欧派'];
 
 const sixActivity1: string[] = [];
 
