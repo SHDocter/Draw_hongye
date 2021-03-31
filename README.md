@@ -1,4 +1,4 @@
-# 哔哩哔哩虚拟区字幕组组长抽卡模拟器v0.5
+# 红叶病毒抽卡模拟器v0.5
 
 [原项目：arknights](https://github.com/lollipopnougat/arknights)<br>
 
